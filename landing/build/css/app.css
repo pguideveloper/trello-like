@@ -1,0 +1,17 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4; }
+
+h1, h2, h3, h4 h5, h6 {
+  font-family: 'Open Sans', sans-serif; }
+
+.navbar.navbar-default {
+  background-color: transparent;
+  border-color: transparent; }
+
+.navbar .navbar-nav li a {
+  text-transform: uppercase;
+  opacity: 0.7;
+  font-weight: 500; }
+  .navbar .navbar-nav li a:hover {
+    color: #fff; }
